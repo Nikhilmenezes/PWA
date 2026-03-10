@@ -1,0 +1,1 @@
+A Progressive Web App (PWA) combines the best of web and mobile app by offering fast load times , offline support, and a native-like experience. AWS Amplify provides an easy way to deploy and host PWAs build with React withautomatic CI/CD integration.
